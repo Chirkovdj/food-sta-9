@@ -48,37 +48,21 @@ margin-bottom: 28px;
     }
     }
     
-    //  @media screen and (min-width: $tablet){
-    //  .container__hero{
-       
-        
-    //     }
-   
-    // }
     @media screen and (min-width: $tablet) and (max-width: $desktop)
     {
-        .hero__title {width: 600px;}
-        .hero__text {width: 300px;}
+        .hero__title {width: 537px;}
+        .hero__text {width: 336px;}
         .container__hero {
             position:relative
         }
         .slide__box {
             position: absolute;
-            right: 70px;
+            right: 40px;
             top: 100px;
         }
         }
     
  
-    
-    
-
-
-
-
-
-
-
 .hero__button {
 background-color:getColor('link-accent-color');
 border-radius: 30px;
